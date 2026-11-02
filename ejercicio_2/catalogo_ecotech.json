@@ -1,0 +1,32 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "nombre": "EcoPanel 400",
+        "marca": "EcoTech",
+        "precio": 250000,
+        "stock": 10,
+        "potencia_watts": 400,
+        "eficiencia": 21.5,
+        "disponible": true
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "EcoPanel 550",
+        "marca": "EcoTech",
+        "precio": 340000,
+        "stock": 5,
+        "potencia_watts": 550,
+        "eficiencia": 22.3,
+        "disponible": true
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "EcoPanel 300",
+        "marca": "SolarGreen",
+        "precio": 190000,
+        "stock": 8,
+        "potencia_watts": 300,
+        "eficiencia": 20.8,
+        "disponible": true
+    }
+]
